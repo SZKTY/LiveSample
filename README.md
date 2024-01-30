@@ -1,4 +1,4 @@
-# Oshigoto
+# LiveSample
 
 ## 開発の始め方
 
